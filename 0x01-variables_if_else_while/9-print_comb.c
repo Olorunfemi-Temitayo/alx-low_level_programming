@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 /**
  * main - prints numbers
 * Description: numbers under 10 with a
