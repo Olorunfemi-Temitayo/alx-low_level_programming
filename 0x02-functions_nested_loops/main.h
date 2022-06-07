@@ -1,4 +1,4 @@
-#ifndef FILE_PUTCHAR
-#define FILE_PUTCHAR
+#ifndef FILE__PUTCHAR
+#define FILE__PUTCHAR
 
 #endif
