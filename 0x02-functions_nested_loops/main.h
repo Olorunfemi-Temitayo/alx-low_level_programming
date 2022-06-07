@@ -1,2 +1,2 @@
-#ifndef FILE_putchar {
-#define FILE_putchar
+#ifndef FILE_MAIN
+#define FILE_MAIN
