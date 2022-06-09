@@ -1,4 +1,4 @@
-#ifndef FILE_putchar
-#define FILE_putchar
+#ifndef MAIN_H
+#define MAIN_H
 
 #endif
